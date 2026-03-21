@@ -22,10 +22,6 @@ off the clock? dancefloor, cult classic hollywood films, playlist that goes abso
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashrajshuklaaa&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajshuklaaa&layout=compact&hide_border=true&theme=tokyonight&langs_count=6)
-
-</div>
-
 ---
 
 ## PRs merged
