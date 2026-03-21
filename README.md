@@ -74,7 +74,7 @@ Cloud Native / k8s       →   obsessed. send help
 
 ## vibes
 
-`dancer irl` &nbsp; `film nerd` &nbsp; `music always on` &nbsp; `k8s appreciator` &nbsp; `go enjoyer` &nbsp; `open source baby`
+`dancer irl` &nbsp; `film nerd` &nbsp; `music always on` &nbsp; `k8s appreciator` &nbsp; `go enjoyer` &nbsp; `open source`
 
 ---
 
