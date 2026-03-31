@@ -18,7 +18,7 @@ off the clock? dancefloor, cult classic hollywood films, playlist that goes abso
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajshuklaaa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=Yash's+GitHub+Stats&rank_icon=github)
+[Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajshuklaaa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=Yash's+GitHub+Stats&rank_icon=github)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashrajshuklaaa&hide_border=true&theme=tokyonight)
 
