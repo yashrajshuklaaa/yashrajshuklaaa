@@ -6,7 +6,7 @@
 
 <div align="center">
 
-ngl i'm that guy who lives at the intersection of **AI/ML** and **cloud-native** infrastructure —
+ngl i'm that guy who lives at the intersection of **AI/ML** and **cloud-native** infrastructure
 distributed systems got me in a chokehold fr. currently on a villain arc in open source.
 off the clock? dancefloor, cult classic hollywood films, playlist that goes absolutely stupid hard. no cap.
 
