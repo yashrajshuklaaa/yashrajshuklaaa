@@ -28,7 +28,7 @@ off the clock? dancefloor, cult classic hollywood films, playlist that goes abso
 
 <div align="center">
 
-![PRs merged(CNCF)](https://img.shields.io/github/issues-search?query=type%3Apr%20author%3Ayashrajshuklaaa%20is%3Amerged&label=PRs%20merged&color=534AB7&style=for-the-badge&logo=github)
+![PRs merged- CNCF)](https://img.shields.io/github/issues-search?query=type%3Apr%20author%3Ayashrajshuklaaa%20is%3Amerged&label=PRs%20merged&color=534AB7&style=for-the-badge&logo=github)
 
 </div>
 
