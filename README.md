@@ -50,12 +50,12 @@ off the clock? dancefloor, cult classic hollywood films, playlist that goes abso
 ---
 
 ## what i'm into
-```
-AI/ML × Cloud Native     →   living at that intersection rent-free fr
-Distributed Systems      →   yes i read whitepapers for fun. i'm normal
-Open Source              →   PRs getting merged, villain arc in progress
-Cloud Native / k8s       →   obsessed. send help
-```
+
+<div align="center">
+
+<img src="skillimg.png" width="850" />
+
+</div>
 
 ---
 
